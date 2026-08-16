@@ -65,7 +65,7 @@
 <br>
 
 <!-- 7. PROJECTS -->
-## 📌 Pinned Projects
+## 📌 My Projects
 
 <table align="center">
 <tr>
