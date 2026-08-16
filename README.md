@@ -1,23 +1,118 @@
-<h1 align="center">Hi 👋, I'm Piyush Suryawanshi</h1>
+<h1 align="center">Hi 👋, I'm Piyush Kumar Suryawanshi</h1>
+<h3 align="center">AI/ML Engineer | GenAI, RAG & Multi-Agent Systems | LangChain • LangGraph • MLOps</h3>
 
-- 👀 I’m interested in Data Analysis and Data Science
-- 👨‍💻 Build projects in Machine Learning, Python, NLP, Power BI etc.
-- 👯 I’m looking for opportunities in the data science field
-- 📫 How to reach me - **piyush29suryawanshi@gmail.com**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Production-Grade+RAG+Systems;Designing+Multi-Agent+LLM+Pipelines;Automating+the+Boring+Stuff+with+GenAI" alt="Typing SVG" />
+</p>
 
+<br>
 
+## 💫 About Me:
+- 🔭 I'm currently working on: Production-grade GenAI, RAG and multi-agent LLM pipelines for the insurance & fintech domain
+- 🌱 I'm currently learning: Agentic AI workflows, Model Context Protocols (MCP), AWS Bedrock AgentCore, LLM evaluation, Guardrails, and AI security
+- 👯 I'm looking to collaborate on: Open-source RAG/agent frameworks, Multi-Agent Systems, LLM evaluation tooling, and GenAI automation projects
+- 🤝 I'm looking for help with: Building and optimizing AI applications, retrieval pipelines, prompt engineering, LLM inference costs, and deployment workflows
+- 💬 Ask me about: Python, LangChain, LangGraph, RAG pipelines, Azure Data Factory, MLflow, Docker, or building LLM-powered automation tools
+- ⚡ Fun fact: I built a Telegram bot that reads my Gmail for job alerts so I don't have to 🤖📧
 
-<img src="https://github-readme-stats.vercel.app/api?username=Piyush-0629&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&count_private=true">
-  <div align="center">
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush-0629&" alt="Piyush-0629" /></p>
-  
-  
-  
-  
-  
-<h3>Connect with me:</h3>
-<p>
-<a href="https://github.com/Piyush-0629"; target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/piyushsuryawanshi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhilasha-jairath" height="30" width="40" /></a>
-<a href="https://twitter.com/@Piyush__29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abhi_jairath" height="30" width="40" /></a>
-</div>
+<br>
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/piyush_29__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/piyushsuryawanshi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/piyush__29) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:piyush29suryawanshi@gmail.com)
+
+<br>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Piyush-0629/Piyush-0629/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+> The snake above animates itself from your contribution graph. It needs a one-time GitHub Action to generate it — see **Setup Notes** at the bottom of this file.
+
+<br>
+
+## 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+<br>
+
+## 📌 Pinned Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**🤖 Isolated Multi-Bot RAG System**
+<br>Python · LangGraph · Pinecone · Docker · AWS EC2
+
+Retrieval architecture with isolated knowledge bases for 10+ bots — dynamic routing between vector retrieval and direct LLM responses, ~30% fewer hallucinations via a context-scoring retry loop.
+
+![repo card](https://github-readme-stats.shion.dev/api/pin/?username=Piyush-0629&repo=isolated-multi-bot-rag&theme=nightowl&hide_border=false)
+
+</td>
+<td width="50%">
+
+**📬 AI Email Summary Job Agent**
+<br>Gmail API · Telegram Bot API · GitHub Actions · Python
+
+Serverless agent that monitors Gmail for job listings, classifies them with an LLM, and pushes structured alerts to Telegram every 15 minutes — no dedicated infra.
+
+![repo card](https://github-readme-stats.shion.dev/api/pin/?username=Piyush-0629&repo=ai-email-job-agent&theme=nightowl&hide_border=false)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🩺 RAG Chatbot with Amazon Bedrock AgentCore**
+<br>Python · Bedrock AgentCore · LangChain · FAISS
+
+FAISS-backed RAG chatbot over 500+ knowledge chunks, running Llama-3.3-70B via LangChain on Bedrock AgentCore with cross-session memory and Docker/ECR deployment.
+
+![repo card](https://github-readme-stats.shion.dev/api/pin/?username=Piyush-0629&repo=rag-chatbot-bedrock-agentcore&theme=nightowl&hide_border=false)
+
+</td>
+<td width="50%">
+
+**🏢 Production RAG Platform** <sub>(Nvest)</sub>
+<br>Python · pgvector · Hybrid Search · Multi-Tenant
+
+Hybrid BM25 + vector retrieval layer on PostgreSQL/pgvector with multi-tenant data isolation, powering GenAI tools across multiple insurance clients.
+
+![repo card](https://github-readme-stats.shion.dev/api/pin/?username=Piyush-0629&repo=production-rag-platform&theme=nightowl&hide_border=false)
+
+</td>
+</tr>
+</table>
+
+> **Note:** the pin cards above pull live GitHub data by repo name — swap `isolated-multi-bot-rag`, `ai-email-job-agent`, etc. in the URLs for your **actual repo slugs** so they render correctly.
+
+<br>
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Piyush-0629&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Piyush-0629&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Piyush-0629&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<br>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<br>
+
+## 🙏 Thank You
+
+Thanks for stopping by my profile! I'm always up for a conversation about GenAI, RAG architectures, agentic systems, or just AI engineering in general — feel free to reach out over [LinkedIn](https://linkedin.com/in/piyushsuryawanshi) or [email](mailto:piyush29suryawanshi@gmail.com). If something here helped you or you'd like to collaborate, a ⭐ on my repos always makes my day.
+
+<p align="center"><i>Building one agent, one pipeline, one PR at a time. 🚀</i></p>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+---
+
+### ⚙️ Setup Notes (for you, not for the README viewer)
+1. **Snake animation**: add [Platane/snk](https://github.com/Platane/snk) as a GitHub Action in this repo (`Piyush-0629/Piyush-0629`) so it generates `github-contribution-grid-snake-dark.svg` on the `output` branch — the image link above expects that path.
+2. **Pin cards**: replace the placeholder repo names (`isolated-multi-bot-rag`, `ai-email-job-agent`, `rag-chatbot-bedrock-agentcore`, `production-rag-platform`) with your real repo slugs, or remove any project you haven't open-sourced.
+3. All stat/quote widgets already point to your username `Piyush-0629` and reuse the `nightowl` theme from your original file.
