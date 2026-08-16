@@ -1,5 +1,5 @@
 <!-- 2 + 3. HERO + TYPING ANIMATION + SOCIAL LINKS — one seamless box -->
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/Piyush-0629/Piyush-0629/main/assets/hero_social.svg" alt="Hero" width="700" />
 </p>
 
