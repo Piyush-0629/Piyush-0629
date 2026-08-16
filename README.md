@@ -28,7 +28,7 @@
   <img src="https://raw.githubusercontent.com/Piyush-0629/Piyush-0629/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
-> The snake above animates itself from your contribution graph. It needs a one-time GitHub Action to generate it — see **Setup Notes** at the bottom of this file.
+
 
 <br>
 
@@ -48,7 +48,7 @@
 
 Retrieval architecture with isolated knowledge bases for 10+ bots — dynamic routing between vector retrieval and direct LLM responses, ~30% fewer hallucinations via a context-scoring retry loop.
 
-![repo card](https://github-readme-stats.shion.dev/api/pin/?username=Piyush-0629&repo=isolated-multi-bot-rag&theme=nightowl&hide_border=false)
+![repo card](https://github-readme-stats.shion.dev/api/pin/?username=Piyush-0629&repo=Isolated-MultiBot-RAG-System&theme=nightowl&hide_border=false)
 
 </td>
 <td width="50%">
@@ -58,7 +58,7 @@ Retrieval architecture with isolated knowledge bases for 10+ bots — dynamic ro
 
 Serverless agent that monitors Gmail for job listings, classifies them with an LLM, and pushes structured alerts to Telegram every 15 minutes — no dedicated infra.
 
-![repo card](https://github-readme-stats.shion.dev/api/pin/?username=Piyush-0629&repo=ai-email-job-agent&theme=nightowl&hide_border=false)
+![repo card](https://github-readme-stats.shion.dev/api/pin/?username=Piyush-0629&repo=Email-Summary-Agent&theme=nightowl&hide_border=false)
 
 </td>
 </tr>
@@ -70,23 +70,14 @@ Serverless agent that monitors Gmail for job listings, classifies them with an L
 
 FAISS-backed RAG chatbot over 500+ knowledge chunks, running Llama-3.3-70B via LangChain on Bedrock AgentCore with cross-session memory and Docker/ECR deployment.
 
-![repo card](https://github-readme-stats.shion.dev/api/pin/?username=Piyush-0629&repo=rag-chatbot-bedrock-agentcore&theme=nightowl&hide_border=false)
+![repo card](https://github-readme-stats.shion.dev/api/pin/?username=Piyush-0629&repo=RAG-Chatbot-with-AWS-Bedrock-Agentcore&theme=nightowl&hide_border=false)
 
 </td>
-<td width="50%">
 
-**🏢 Production RAG Platform** <sub>(Nvest)</sub>
-<br>Python · pgvector · Hybrid Search · Multi-Tenant
-
-Hybrid BM25 + vector retrieval layer on PostgreSQL/pgvector with multi-tenant data isolation, powering GenAI tools across multiple insurance clients.
-
-![repo card](https://github-readme-stats.shion.dev/api/pin/?username=Piyush-0629&repo=production-rag-platform&theme=nightowl&hide_border=false)
-
-</td>
 </tr>
 </table>
 
-> **Note:** the pin cards above pull live GitHub data by repo name — swap `isolated-multi-bot-rag`, `ai-email-job-agent`, etc. in the URLs for your **actual repo slugs** so they render correctly.
+
 
 <br>
 
@@ -108,11 +99,6 @@ Thanks for stopping by my profile! I'm always up for a conversation about GenAI,
 
 <p align="center"><i>Building one agent, one pipeline, one PR at a time. 🚀</i></p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
-### ⚙️ Setup Notes (for you, not for the README viewer)
-1. **Snake animation**: add [Platane/snk](https://github.com/Platane/snk) as a GitHub Action in this repo (`Piyush-0629/Piyush-0629`) so it generates `github-contribution-grid-snake-dark.svg` on the `output` branch — the image link above expects that path.
-2. **Pin cards**: replace the placeholder repo names (`isolated-multi-bot-rag`, `ai-email-job-agent`, `rag-chatbot-bedrock-agentcore`, `production-rag-platform`) with your real repo slugs, or remove any project you haven't open-sourced.
-3. All stat/quote widgets already point to your username `Piyush-0629` and reuse the `nightowl` theme from your original file.
