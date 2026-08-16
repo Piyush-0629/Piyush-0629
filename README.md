@@ -88,7 +88,7 @@ FAISS-backed RAG chatbot over 500+ knowledge chunks, running Llama-3.3-70B via L
 
 <br>
 
-### ✍️ Random Dev Quote
+### ✍️ Today's Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <br>
