@@ -67,7 +67,7 @@
     <rect class="card" x="28" y="158" width="200" height="46" rx="10"/>
     <circle cx="52" cy="181" r="5" fill="#00d9ff"/>
     <text x="68" y="178" class="card-label">RAG</text>
-    <text x="68" y="192" class="card-sub">Retrieval-Augmented Generation</text>
+    <text x="68" y="192" class="card-sub">Agentic-RAG, Adaptive RAG</text>
   </g>
 
   <g class="pop" style="animation-delay:0.45s">
