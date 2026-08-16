@@ -17,9 +17,9 @@
 <br>
 
 <!-- 5. TECH STACK SECTION -->
-<p align="center">
+
   <img src="https://raw.githubusercontent.com/Piyush-0629/Piyush-0629/main/assets/stack_header.svg" alt="Tech Stack" width="700" />
-</p>
+
 
 **💻 Languages**
 <br>
