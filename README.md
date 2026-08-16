@@ -115,9 +115,6 @@ FAISS-backed RAG chatbot over 500+ knowledge chunks, running Llama-3.3-70B via L
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Piyush-0629&theme=nightowl&hide_border=false" alt="GitHub Streak" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Piyush-0629&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-</p>
 
 <br>
 
@@ -150,9 +147,3 @@ Thanks for stopping by my profile! I'm always up for a conversation about GenAI,
 
 ---
 
-### ⚙️ Setup Notes (for you, not for the README viewer — delete this section once done)
-1. Create/confirm your special repo: **`Piyush-0629/Piyush-0629`** (public), and put this file there as `README.md`.
-2. Create an `assets/` folder in that repo and upload: `hero_social.svg`, `stack.svg`, `stack_header.svg`.
-3. Set up the snake workflow (`.github/workflows/snake.yml`) so the `output` branch exists.
-4. In **Pinned Projects**, the repo names (`Isolated-MultiBot-RAG-System`, `Email-Summary-Agent`, `RAG-Chatbot-with-AWS-Bedrock-Agentcore`) must match your **actual** GitHub repo slugs, or the pin cards render blank.
-5. If `hero_social.svg` doesn't render or the typing animation looks static inside it, tell me what you actually see and I'll simplify it — worst case we fall back to the plain heading + separate typing-svg + shields.io social badges, which are guaranteed to work.
