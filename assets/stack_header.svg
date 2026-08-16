@@ -1,0 +1,25 @@
+<svg width="700" height="70" viewBox="0 0 700 70" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="underlineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00d9ff"/>
+      <stop offset="100%" stop-color="#7f5af0"/>
+    </linearGradient>
+    <style>
+      .bg { fill: #0d1117; }
+      .title { fill: #c9d1d9; font-family: 'Segoe UI', sans-serif; font-size: 20px; font-weight: 700; }
+      .underline { stroke: url(#underlineGrad); stroke-width: 3; stroke-linecap: round; }
+      @keyframes drawLine {
+        from { stroke-dashoffset: 300; }
+        to { stroke-dashoffset: 0; }
+      }
+      @keyframes pulse {
+        0%, 100% { opacity: 0.55; }
+        50% { opacity: 1; }
+      }
+      .underline { stroke-dasharray: 300; animation: drawLine 1.4s ease-out forwards, pulse 2.6s ease-in-out 1.4s infinite; }
+    </style>
+  </defs>
+  <rect class="bg" width="700" height="70" rx="12"/>
+  <text x="24" y="34" class="title">🛠️ Tech Stack</text>
+  <line x1="24" y1="50" x2="220" y2="50" class="underline"/>
+</svg>
